@@ -18,7 +18,7 @@ class BAFApache
 
 class BAFCoyote
 {
-	name = "BAF Coyoye";
+	name = "BAF Coyote";
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
 	items[] =
 	{
